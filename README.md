@@ -1,7 +1,5 @@
 ### Hi, I'm Tosin 👋🏾👨🏾‍💻
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tosinaina&label=Profile%20views&color=0e75b6&style=flat" alt="tosinaina" /> </p>
-
 Welcome to my github page, I am a Data scientist. I love doing and learning about anything relating to data. 
 
 - 🌱 I’m currently learning to deploy scalable machine learning models to cloud ☁️.
