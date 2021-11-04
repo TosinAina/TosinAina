@@ -2,7 +2,7 @@
 
 Welcome to my github page, I am a Data scientist. I love doing and learning about anything relating to data. 
 
-- 🌱 I’m currently learning to deploy scalable machine learning models to cloud ☁️.
+- 🌱 I’m currently learning to deploy scalable machine learning models to cloud ☁️ and how to get the most accurate model possible.
 - 👯 I’m looking to collaborate on cool data-related project.
 - 💸 I'm open to work.
 - 😄 Pronouns: He/Him.
