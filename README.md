@@ -9,6 +9,7 @@ Welcome to my github page, I am a Data scientist. I love doing and learning abou
 - ⚡ Fun fact: Little Simz is a dope artiste. You should check her out.
 
 <!-- Google Calendar Appointment Scheduling begin -->
+<html>
 <link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
 <script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
 <script>
@@ -24,6 +25,7 @@ Welcome to my github page, I am a Data scientist. I love doing and learning abou
   });
 })();
 </script>
+</html>
 <!-- end Google Calendar Appointment Scheduling -->
 
 <h3 align="left">Languages and Tools:</h3>
