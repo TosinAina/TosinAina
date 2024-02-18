@@ -1,9 +1,9 @@
 ### Hi, I'm Tosin 👋🏾👨🏾‍💻
 
-Welcome to my github page, I am a Machine Learning Engineer. . 
+Welcome to my github page, I am a Machine Learning Engineer. I like to work in the intersection of research and software products. 
 
-- 🌱 I’m currently learning to deploy scalable machine learning models to cloud ☁️ and how to get the most accurate model possible.
-- 👯 I’m looking to collaborate on multimodal AI research projects.
+- 🌱 I’m currently improving my research skills.
+- 👯 I’m looking to collaborate on any multimodal AI research projects.
 - 💸 I'm open to work.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Little Simz is a dope artiste. You should check her [out](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI?si=6PUZhLiCTrq1DyrCtQttIQ).
