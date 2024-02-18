@@ -1,6 +1,6 @@
 ### Hi, I'm Tosin 👋🏾👨🏾‍💻
 
-Welcome to my github page, I am a Machine Learning Engineer. I like to work in the intersection of research and software products. 
+Welcome to my github page, I am a Machine Learning Engineer. I enjoy working in the intersection of research and software products. 
 
 - 🌱 I’m currently improving my research skills.
 - 👯 I’m looking to collaborate on any multimodal AI research projects.
